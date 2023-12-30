@@ -1,0 +1,22 @@
+.silder-img-div {
+  height: 300px;
+  width: 100px;
+  margin-top: 20px;
+}
+.main-silder-div {
+  height: 384px;
+  width: 98%;
+  /* margin-top: 50px; */
+  /* font-family: cursive; */
+}
+.slide_card {
+  height: 300px;
+  width: 400px;
+}
+.img-label {
+  position: absolute;
+  margin-top: 235px;
+  color: white;
+  font-weight: 600;
+  font-size: 30px;
+}
